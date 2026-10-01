@@ -71,4 +71,7 @@ Screenshot showing stored feedback records in Amazon RDS MySQL.
 
 ![SQL Feedback Records](SQL-Feedback-Records.png)
 
+
+## Architecture Diagram
+
 ![AWS Architecture Diagram](AWS%20Architecture%20Diagram.jpeg)
