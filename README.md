@@ -1,3 +1,6 @@
+## Live Application
+[Open AWS Application](http://Public-ALB-1478638625.ap-south-1.elb.amazonaws.com)
+
 # AWS 3-Tier Architecture on AWS
 
 A scalable, secure, and highly available web application architecture built using AWS services.
