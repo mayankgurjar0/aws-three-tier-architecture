@@ -64,3 +64,9 @@ The project demonstrates the deployment and integration of a multi-tier web appl
 Mayank Gurjar
 
 GitHub: https://github.com/mayankgurjar0
+
+## Database Tier - SQL Output
+
+Screenshot showing stored feedback records in Amazon RDS MySQL.
+
+![SQL Feedback Records](SQL-Feedback-Records.png)
