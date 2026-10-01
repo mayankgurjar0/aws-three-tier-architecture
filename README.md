@@ -70,3 +70,5 @@ GitHub: https://github.com/mayankgurjar0
 Screenshot showing stored feedback records in Amazon RDS MySQL.
 
 ![SQL Feedback Records](SQL-Feedback-Records.png)
+
+![AWS Architecture Diagram](AWS%20Architecture%20Diagram.jpeg)
